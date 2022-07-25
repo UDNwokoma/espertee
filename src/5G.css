@@ -1,0 +1,18 @@
+
+/*  Be careful 5G Active     */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(231, 231, 231, 0) rgba(231, 231, 231, 0);
+}
+*::-webkit-scrollbar {
+  width: 1px;
+}
+*::-webkit-scrollbar-track {
+  background: rgba(231, 231, 231, 0);
+}
+*::-webkit-scrollbar-thumb {
+  background-color: rgba(231, 231, 231, 0)rgb(231, 231, 231);
+  border-radius: 1px;
+  border: 1px solid rgba(231, 231, 231, 0);
+}
+/*  Be careful 5G Active     */
