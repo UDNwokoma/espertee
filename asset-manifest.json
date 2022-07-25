@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/espertee/static/css/main.f14ad2b3.css",
+    "main.js": "/espertee/static/js/main.dc3ab9ac.js",
+    "static/js/787.128f8834.chunk.js": "/espertee/static/js/787.128f8834.chunk.js",
+    "static/media/wallpapersden.com_k-cool-2020-art_3840x2160.jpg": "/espertee/static/media/wallpapersden.com_k-cool-2020-art_3840x2160.c06f3b4a39735fc14572.jpg",
+    "static/media/280245Copy.jpg": "/espertee/static/media/280245Copy.d6e152f88a1b436da1e2.jpg",
+    "static/media/280245.jpg": "/espertee/static/media/280245.1a584b5d32fe64517a3d.jpg",
+    "static/media/main.png": "/espertee/static/media/main.2d42eb60fbebcce6d78d.png",
+    "static/media/bx-cog.svg": "/espertee/static/media/bx-cog.ca33dee535eb6548be5bfa3e64d7b7a3.svg",
+    "static/media/Ripple-1s-200px.svg": "/espertee/static/media/Ripple-1s-200px.86c721f111148002fe7ea9cf6bb17284.svg",
+    "index.html": "/espertee/index.html",
+    "static/media/bx-home-circle.svg": "/espertee/static/media/bx-home-circle.f260bf8d680b0bc24b5ef36705887c16.svg",
+    "static/media/bx-cube-alt.svg": "/espertee/static/media/bx-cube-alt.ad7a144f9287af275b544ea53bcfd4a1.svg",
+    "static/media/bx-money.svg": "/espertee/static/media/bx-money.d5989b5011ddff210d7b3882137a6b04.svg",
+    "static/media/bx-support.svg": "/espertee/static/media/bx-support.9cee74fcb270395eb85df9aad41f78da.svg",
+    "static/media/bx-message-dots.svg": "/espertee/static/media/bx-message-dots.0a16e5cb2a2219d87cd3466e697dc1c4.svg",
+    "static/media/bx-copy.svg": "/espertee/static/media/bx-copy.5d2ed5ccdbe559481e9051d513a5b3e0.svg",
+    "static/media/bx-line-chart.svg": "/espertee/static/media/bx-line-chart.ccb8c29174d28aee43fd0c073d0e109b.svg",
+    "static/media/bx-notepad.svg": "/espertee/static/media/bx-notepad.e3b5881c82a0bd116b3778a466663da4.svg",
+    "static/media/bx-detail.svg": "/espertee/static/media/bx-detail.2d9ab0930dc232fe732d8e02390f011e.svg",
+    "static/media/bx-layout.svg": "/espertee/static/media/bx-layout.d59be625dcc3c0fc05d6940878911c8c.svg",
+    "static/media/bx-log-out.svg": "/espertee/static/media/bx-log-out.dca47f76b9e8334de78793b73b494baf.svg",
+    "static/media/bx-scan.svg": "/espertee/static/media/bx-scan.7d1244a5b24013d2718ea1b5778e36c7.svg",
+    "static/media/bx-user.svg": "/espertee/static/media/bx-user.63ad35b48083351384b57e9abbefaf3e.svg",
+    "static/media/bx-collection.svg": "/espertee/static/media/bx-collection.22f3a5ad6d477e2d8e6e583cd307b5ae.svg",
+    "static/media/bx-dock-top.svg": "/espertee/static/media/bx-dock-top.36977531163509f76804cfdf266a5f6f.svg",
+    "static/media/bx-chevron-right.svg": "/espertee/static/media/bx-chevron-right.f919fccc622bbecc73285b3bc8f21b17.svg",
+    "static/media/bx-chevron-left.svg": "/espertee/static/media/bx-chevron-left.4af5221dd95f1fd472acde7a0116d898.svg",
+    "static/media/bx-menu.svg": "/espertee/static/media/bx-menu.3fb35fa2ed1fad993e21d7443c5730cc.svg",
+    "main.f14ad2b3.css.map": "/espertee/static/css/main.f14ad2b3.css.map",
+    "main.dc3ab9ac.js.map": "/espertee/static/js/main.dc3ab9ac.js.map",
+    "787.128f8834.chunk.js.map": "/espertee/static/js/787.128f8834.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f14ad2b3.css",
+    "static/js/main.dc3ab9ac.js"
+  ]
+}
